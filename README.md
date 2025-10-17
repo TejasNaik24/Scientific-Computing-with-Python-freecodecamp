@@ -1,53 +1,30 @@
-# 🧮 Scientific Computing with Python – freeCodeCamp Certification Projects
+# Scientific Computing with Python – freeCodeCamp Certification Projects
 
-This repository contains my completed projects for the **Scientific Computing with Python** certification offered by [freeCodeCamp.org](https://www.freecodecamp.org/learn/scientific-computing-with-python).  
-As part of this certification, I built **five hands-on Python projects** that demonstrate algorithmic thinking, clean code practices, and computational problem solving using Python’s standard libraries.
+This repository contains my completed projects for the **Scientific Computing with Python** certification offered by [freeCodeCamp.org](https://www.freecodecamp.org/). As part of the certification, I was tasked with completing five hands-on challenges that demonstrate my understanding of Python fundamentals, data manipulation, object-oriented programming, and algorithmic problem solving.
+
+Each project focuses on a core Python programming concept and was built from scratch using **pure Python** and standard libraries like `math`, `datetime`, and `random`, while following clean, readable, and modular coding practices.
+
+---
+
+Check out my [Certification](https://www.freecodecamp.org/certification/fccad7f82ea-5cfc-40bf-8f87-ff8d401f30c0/scientific-computing-with-python-v7) here!
 
 ---
 
 ## ✅ Completed Projects
 
 ### ➕ Arithmetic Formatter
-Formats and aligns arithmetic problems vertically, displaying the answers if requested.  
-**Concepts used:** string manipulation, loops, and conditionals.
+Formats and arranges arithmetic problems (addition and subtraction) vertically and neatly, with optional solutions displayed.
 
 ### ⏰ Time Calculator
-Adds a time duration to a start time and returns the new time and day.  
-**Concepts used:** time arithmetic, modular math, and string parsing.
+Takes a start time and duration, adds them together, and returns the new time and day of the week (if applicable).
 
 ### 💰 Budget App
-A budgeting class that tracks deposits, withdrawals, and transfers, and generates a text-based spend chart.  
-**Concepts used:** OOP, data visualization (text), and modular design.
+Implements a budgeting system that tracks deposits, withdrawals, and category transfers, and generates a text-based spend chart.
 
 ### 📐 Polygon Area Calculator
-Calculates the area and perimeter of geometric shapes (like rectangles and squares) and allows dynamic shape manipulation.  
-**Concepts used:** classes, inheritance, and geometry formulas.
+Creates geometric shape classes (Rectangle, Square) to compute area, perimeter, and visualize shapes using object-oriented design.
 
-### 🎲 Probability Calculator (Hat Simulation)
-Simulates random draws from a hat filled with colored balls to estimate probabilities through experiments.  
-**Concepts used:** randomness, probability, and simulation.
+### 🎲 Probability Calculator
+Simulates random draws from a hat filled with colored balls and estimates the probability of drawing a specific combination.
 
 ---
-
-## 🧠 What I Learned
-
-Through these projects, I strengthened my understanding of:
-
-- **Python fundamentals** (loops, conditionals, and data structures)  
-- **Object-oriented programming** and class design  
-- **Simulation and probability modeling**  
-- **Algorithmic problem solving** and debugging  
-- **Modular, readable code structure**
-
----
-
-## 🛠️ Technologies Used
-
-- **Python 3.x**
-- Standard Libraries: `math`, `datetime`, `random`, `copy`
-- No external dependencies (as per freeCodeCamp requirements)
-
----
-
-## 📁 Repository Structure
-
